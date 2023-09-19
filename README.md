@@ -3,7 +3,7 @@
 
 * [XAMPP](https://www.apachefriends.org/es/index.html) : para la gestión de base de datos.
 
-* [Script DB]() : usar el siguiente script.
+* [Script DB](https://github.com/ariel-pa/sistema-ventas-project/blob/main/db/dbsistema.sql) : usar el siguiente script.
 
 ### Herramientas usadas en el proyecto
 
